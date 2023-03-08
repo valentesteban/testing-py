@@ -1,4 +1,4 @@
-# this imputs will be writen by the user
+# this inputs will be written by the user
 age = 17
 dni = 47
 
